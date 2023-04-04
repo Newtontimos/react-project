@@ -1,6 +1,6 @@
 import React from "react";
 
-function Contact_Me(props) {
+function ContactMe(props) {
   return (
     <div>
       <h1>My Staff</h1>
@@ -11,4 +11,4 @@ function Contact_Me(props) {
   );
 }
 
-export default Contact_Me;
+export default ContactMe;
